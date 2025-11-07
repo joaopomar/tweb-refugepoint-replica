@@ -48,6 +48,6 @@ This component involved building a multi-step donation form with complex client-
 *   **No Frameworks:** Use of CSS frameworks (like Bootstrap) or JS libraries (like jQuery) was strictly forbidden.
 *   **SASS (Not Used):** While SASS was an option for the project, this implementation uses pure CSS.
 
-###Authors
+## Authors
 * **Diogo Silva
 * **João Pomar
