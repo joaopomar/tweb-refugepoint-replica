@@ -34,7 +34,7 @@ This component involved building a multi-step donation form with complex client-
 
 *   **Real-Time Impact Calculation:** The system instantly calculates and displays the real-world impact of the donation amount (e.g., number of meals provided, people fed per day, or days of support).
 
-*   **Payment Method Simulation:** Client-side logic handles the availability of different payment options (Credit Card, Paypal, Multibanco, MBWay) based on whether the donation is single or recurring.
+*   **Payment Method Simulation:** Client-side logic handles the availability of different payment options (Credit Card, PayPal, Multibanco, MBWay) based on whether the donation is single or recurring.
 
 *   **Pure DOM Manipulation:** All visual updates, text changes, and form interactions are handled by directly manipulating the DOM with JavaScript.
 
@@ -49,5 +49,5 @@ This component involved building a multi-step donation form with complex client-
 *   **SASS (Not Used):** While SASS was an option for the project, this implementation uses pure CSS.
 
 ## Authors
-* **Diogo Silva
-* **João Pomar
+* Diogo Silva
+* João Pomar
